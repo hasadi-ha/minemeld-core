@@ -13,7 +13,7 @@ click==4.1
 pan-python==0.10.0
 stix==1.1.1.6
 cybox==2.1.0.12
-libtaxii==1.1.107
+libtaxii==1.1.118
 pytz==2015.4
 certifi
 ujson==1.34
